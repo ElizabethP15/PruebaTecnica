@@ -3,6 +3,8 @@ Prueba técnica, Analista de desarrollo Konecta.
 
 Lenguaje de programación usado JAVA 8.
 Motor de base de datos MySQL.
+
+
 Condiciones:
 
 1. Poder compilar y ejecutar aplicaciones SpringBoot, usa el local host.
